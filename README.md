@@ -1,4 +1,4 @@
-<h1 align="center">Hlo :) 👋, I'mm Sanskriti Kadam</h1>
+<h1 align="center">Hlo :) 👋, I'm Sanskriti Kadam</h1>
 <h3 align="center">⚡ Fun fact: I code ☕️ caffeinated! Every program has (at least) two purposes: the one for which it was written and another for which it wasn't."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskriti1102&label=Profile%20views&color=0e75b6&style=flat" alt="sanskriti1102" /> </p>
