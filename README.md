@@ -1,7 +1,4 @@
 <p align="center">
-![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
-</p>
-<p align="center">
   <img src="https://share.creavite.co/JsGTiL0KoejAByNM.gif" alt="animated" />
 </p>
 <h1 align="center">Hlo :) 👋, I'm Sanskriti Kadam</h1>
