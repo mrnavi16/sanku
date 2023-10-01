@@ -39,6 +39,9 @@
 [![Google Developers Profile](https://img.shields.io/badge/Google%20Developers-Profile-blue?style=flat&logo=google)](https://g.dev/SanskritiKadam_SK)
 [![Quine](https://img.shields.io/badge/Quine-%23000000.svg?logo=quines&logoColor=white)](https://quine.sh/user/Sanskriti1102)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sanskriti1102&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
