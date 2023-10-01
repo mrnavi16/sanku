@@ -47,3 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskriti1102&show_icons=true&locale=en&theme=ayu-mirage" alt="sanskriti1102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskriti1102&theme=ayu-mirage" alt="sanskriti1102" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sanskriti1102&theme=onedark&no-frame=false&no-bg=false&margin-w=2)
