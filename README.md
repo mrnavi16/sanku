@@ -1,4 +1,4 @@
-![MasterHead](align="center" https://share.creavite.co/JsGTiL0KoejAByNM.gif)
+![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif&align="center")
 <h1 align="center">Hlo :) 👋, I'm Sanskriti Kadam</h1>
 <h3 align="center">⚡ Fun fact: I code ☕️ caffeinated! Every program has (at least) two purposes: the one for which it was written and another for which it wasn't."</h3>
 
