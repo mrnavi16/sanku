@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://share.creavite.co/JsGTiL0KoejAByNM.gif" alt="animated" />
 </p>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/sanku/sanku/master/githubName.svg" alt="Sanskriti" />
+</h1>
+
 <h1 align="center">Hlo :) 👋, I'm Sanskriti Kadam</h1>
 <h3 align="center">⚡ Fun fact: I code ☕️ caffeinated! Every program has (at least) two purposes: the one for which it was written and another for which it wasn't."</h3>
 
