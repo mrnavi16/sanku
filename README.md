@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/sanku/sanku/master/githubName.svg" alt="Sanskriti" />
+  <img src="https://raw.githubusercontent.com/sanku/master/githubName.svg" alt="Sanskriti" />
 </h1>
 
 <h1 align="center">Hlo :) 👋, I'm Sanskriti Kadam</h1>
